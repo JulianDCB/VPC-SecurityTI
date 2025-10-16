@@ -1,0 +1,9 @@
+PING 50.116.1.184 (50.116.1.184) 56(84) bytes of data.
+64 bytes from 50.116.1.184: icmp_seq=1 ttl=255 time=127 ms
+64 bytes from 50.116.1.184: icmp_seq=2 ttl=255 time=127 ms
+64 bytes from 50.116.1.184: icmp_seq=3 ttl=255 time=127 ms
+64 bytes from 50.116.1.184: icmp_seq=4 ttl=255 time=127 ms
+
+--- 50.116.1.184 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3007ms
+rtt min/avg/max/mdev = 126.961/127.263/127.385/0.176 ms

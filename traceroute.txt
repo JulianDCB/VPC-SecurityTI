@@ -1,0 +1,2 @@
+traceroute to nmap.org (50.116.1.184), 30 hops max, 60 byte packets
+ 1  ack.nmap.org (50.116.1.184) <syn,ack>  118.170 ms  129.520 ms  116.653 ms
